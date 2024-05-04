@@ -14,7 +14,7 @@ This project is an Employee Management System with RESTful API endpoints impleme
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/employee-management-system.git
+git clone https://github.com/Vyomrana02/java-rest-api.git
 ```
 
 2. Clean the Maven Application
