@@ -87,7 +87,7 @@ git clone https://github.com/yourusername/employee-management-system.git
 
 
 #### c. Delete Employee
-- **DELETE (http://localhost:8085/user/api/v1/deleteEmployeeById/<Emp-id>)**
+- **DELETE (http://localhost:8085/user/api/v1/deleteEmployeeById/{Emp-id})**
 
 ![Screenshot 2024-05-04 113439](https://github.com/Vyomrana02/java-rest-api/assets/87069619/5b0af922-8506-4630-92a4-9f80fa52e40f)
 
@@ -112,7 +112,7 @@ git clone https://github.com/yourusername/employee-management-system.git
 ### Intermediate Level
 
 #### a. Get nth Level Manager of an Employee
-- **GET(http://localhost:8085/user/api/v1/getnlevel/<Emp-id>/<level>)**
+- **GET(http://localhost:8085/user/api/v1/getnlevel/{Emp-id}/{level})**
 
 ![Screenshot 2024-05-04 113705](https://github.com/Vyomrana02/java-rest-api/assets/87069619/3ca7ccfa-3020-472b-b732-a3df1e37cfc0)
 
